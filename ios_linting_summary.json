@@ -1,12 +1,6 @@
 [
     {
         "issues": {
-            "identifier_name": 2
-        },
-        "file": "/Users/summerjones/Development/Skoot/iOS/Skoot/SwiftUI/Wallet/ViewModels/WalletVM.swift"
-    },
-    {
-        "issues": {
             "line_length": 1
         },
         "file": "/Users/summerjones/Development/Skoot/iOS/Skoot/SwiftUI/Wallet/Views/TotalCashRow.swift"
