@@ -1,1 +1,2317 @@
-[{"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Views/SwiftUI/SecondaryButton.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Routes/ScreenRoutes/SharedDriveDetailsRoute.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Messaging/Services/DriverProvider.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardGathering/GatheringTip1ViewController.swift"}, {"issues": {"identifier_name": 4, "function_parameter_count": 2}, "file": "/Users/distiller/code/Skoot/Views/ChooseDriverViews/ChooseDriverViewDelegate.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip2ViewController.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Messaging/Services/UserProvider.swift"}, {"issues": {"force_cast": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/TripsParticipantsViewController.swift"}, {"issues": {"identifier_name": 3, "force_cast": 1, "class_delegate_protocol": 1, "line_length": 4, "unneeded_break_in_switch": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Errands/Create/CreateErrandViewController.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Rewards/RewardsUI.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Extensions/UserDefaults+Codable.swift"}, {"issues": {"for_where": 1, "force_cast": 4, "type_body_length": 1, "notification_center_detachment": 1, "file_length": 1, "line_length": 11}, "file": "/Users/distiller/code/Skoot/Scenes/Map/MapViewController.swift"}, {"issues": {"identifier_name": 1, "type_name": 1, "line_length": 1, "force_cast": 1}, "file": "/Users/distiller/code/Skoot/Scenes/FriendsSelector/SharedDrivesFriendsSelectorFlowCoordinator.swift"}, {"issues": {"identifier_name": 1, "force_cast": 1}, "file": "/Users/distiller/code/Skoot/Views/XibView.swift"}, {"issues": {"identifier_name": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Rewards/Views/CampaignRow.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/Views/JourneyStartedBottomMenu.swift"}, {"issues": {"identifier_name": 2, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Models/Errands/Errands.swift"}, {"issues": {"computed_accessors_order": 4, "force_cast": 1}, "file": "/Users/distiller/code/Skoot/Helpers/DictionaryEncoder.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/SharedViews/InviteeTableView.swift"}, {"issues": {"identifier_name": 3, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Payments/PaymentUiViewPayment.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 3, "line_length": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/LicenseInfoUI.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Helpers/HelperStates.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/WalletUI.swift"}, {"issues": {"class_delegate_protocol": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Errands/Create/Views/PaymentDetailsView.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Views/SwiftUI/PrimaryButton.swift"}, {"issues": {"unneeded_break_in_switch": 3}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Friends/FriendCell/FriendCell.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardGathering/GatheringTip2ViewController.swift"}, {"issues": {"cyclomatic_complexity": 1, "force_cast": 4, "closure_parameter_position": 4, "identifier_name": 4, "function_body_length": 1, "line_length": 7}, "file": "/Users/distiller/code/Skoot/Routes/RootRoutable+TestingRoutes.swift"}, {"issues": {"cyclomatic_complexity": 1, "identifier_name": 12, "todo": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/MapViewController+TripsUpdateService.swift"}, {"issues": {"identifier_name": 1, "force_cast": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/TripsViewModel.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip5ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip6ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip4ViewController.swift"}, {"issues": {"identifier_name": 4, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Messaging/Services/APIService.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 2, "line_length": 3}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/Views/DVLAZigZagView.swift"}, {"issues": {"unused_closure_parameter": 1, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Scenes/LocationSelector/LocationSelectorViewController.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 1, "line_length": 3}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/Views/ZigZagPopUpView.swift"}, {"issues": {"identifier_name": 2, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Utils/ImageSelectorManager.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Utils/Array+distinct.swift"}, {"issues": {"orphaned_doc_comment": 2, "unused_closure_parameter": 1}, "file": "/Users/distiller/code/Skoot/Views/InputPhone/InputPhone.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Models/Transaction.swift"}, {"issues": {"identifier_name": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/RideLocationConfirmationVC.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Utils/WebViewProvider.swift"}, {"issues": {"identifier_name": 4, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Views/InputPin/InputPin.swift"}, {"issues": {"force_cast": 1, "line_length": 5}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/JourneyViewController.swift"}, {"issues": {"identifier_name": 12, "force_cast": 3, "line_length": 5}, "file": "/Users/distiller/code/Skoot/Helpers/HelperPresenter.swift"}, {"issues": {"line_length": 4}, "file": "/Users/distiller/code/Skoot/Messaging/Services/Communication/JourneyUpdateService.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/Views/CarDetailsView.swift"}, {"issues": {"orphaned_doc_comment": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/Views/JourneyUserLocationAnnotationView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardTips/WizardTip5ViewController.swift"}, {"issues": {"file_length": 1, "function_body_length": 2, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Models/RideDetails.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/Views/JourneyPendingPickupBottomMenu.swift"}, {"issues": {"line_length": 5}, "file": "/Users/distiller/code/Skoot/Messaging/Services/APIDriver.swift"}, {"issues": {"identifier_name": 1, "duplicate_imports": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Messaging/FirebaseMessaging.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Extensions/UINavigationController+Helpers.swift"}, {"issues": {"cyclomatic_complexity": 1, "function_body_length": 1, "unneeded_break_in_switch": 1, "identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Errands/Summary/ErrandsSummaryViewController.swift"}, {"issues": {"identifier_name": 1, "closure_parameter_position": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Login/LoginViewController.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/InviteCodeViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardTips/WizardTip6ViewController.swift"}, {"issues": {"unused_closure_parameter": 4}, "file": "/Users/distiller/code/Skoot/Messaging/Redux/Actions/MapAction.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Messaging/Services/Communication/DriveUpdateService.swift"}, {"issues": {"identifier_name": 1, "force_cast": 2, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Views/ChooseDriverViews/ChooseDriverView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardTips/WizardTip4ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip1ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/Views/ImageLoader.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 4, "class_delegate_protocol": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/General/PopUp/PopUpVC.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Models/Participant.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 2, "line_length": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/LicenseScanInfoUI.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/FriendsSelector/FriendsSelectorViewModel.swift"}, {"issues": {"line_length": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/Views/WalletRow.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/BankDetailsUI.swift"}, {"issues": {"identifier_name": 3, "unused_optional_binding": 2, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Errands/Create/CreateErrandViewModel.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardGathering/GatheringTip4ViewController.swift"}, {"issues": {"line_length": 2}, "file": "/Users/distiller/code/Skoot/Messaging/Services/Communication/TripsUpdateService.swift"}, {"issues": {"for_where": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Rider/ConfirmRideVC.swift"}, {"issues": {"identifier_name": 2, "line_length": 6}, "file": "/Users/distiller/code/Skoot/Helpers/TripUpdateHelpers.swift"}, {"issues": {"identifier_name": 6, "line_length": 9}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/JourneyNavigationViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardTips/WizardTip3ViewController.swift"}, {"issues": {"unused_closure_parameter": 1, "line_length": 5}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Profile/PlacesAutocompleteVC.swift"}, {"issues": {"identifier_name": 1, "force_cast": 2, "unused_optional_binding": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Login/EnterCodeViewController.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/InviteFriends/InviteFriends.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/Views/AmountTextView.swift"}, {"issues": {"identifier_name": 4, "force_cast": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Login/ProfileCreatorViewController.swift"}, {"issues": {"function_body_length": 1}, "file": "/Users/distiller/code/Skoot/Messaging/Redux/Reducers/MapReducer.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Models/Errands/ErrandFees.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/Views/SecondaryCarInfoView.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Messaging/Services/Communication/FriendLocationService.swift"}, {"issues": {"identifier_name": 1, "discarded_notification_center_observer": 2, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Views/HomeMenuView/HomeMenuView.swift"}, {"issues": {"force_cast": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/Receipt/TripReceiptViewController.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/Views/InstantRideRequestView.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Models/Location.swift"}, {"issues": {"identifier_name": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Routes/RootRoutable.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 4, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/General/Drawer/DrawerVC.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardTips/WizardTip1ViewController.swift"}, {"issues": {"identifier_name": 1, "force_try": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Helpers/GRPCHelpers.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/Views/CarDetailsPlateView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip8ViewController.swift"}, {"issues": {"identifier_name": 2, "multiple_closures_with_trailing_closure": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Scenes/Login/TakeSelfieViewController.swift"}, {"issues": {"line_length": 2}, "file": "/Users/distiller/code/Skoot/Messaging/Services/APIHelper.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip2ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Extensions/Geocoder.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Routes/ScreenRoutes/ErrandSummaryRoute.swift"}, {"issues": {"vertical_parameter_alignment": 3, "identifier_name": 3, "line_length": 7}, "file": "/Users/distiller/code/Skoot/Utils/MapBox+Helpers.swift"}, {"issues": {"line_length": 5}, "file": "/Users/distiller/code/Skoot/Models/SharedDrive.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip8ViewController.swift"}, {"issues": {"identifier_name": 3, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/General/PopUp/NetworkingPopUpManager.swift"}, {"issues": {"line_length": 25}, "file": "/Users/distiller/code/Skoot/Scenes/General/PopUp/ZigZagViewType.swift"}, {"issues": {"identifier_name": 2, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Extensions/String.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/AddBankAccountUI.swift"}, {"issues": {"identifier_name": 4, "type_name": 1}, "file": "/Users/distiller/code/Skoot/Models/Car.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip9ViewController.swift"}, {"issues": {"identifier_name": 3, "line_length": 4}, "file": "/Users/distiller/code/Skoot/Scenes/Login/WelcomeViewController.swift"}, {"issues": {"for_where": 1, "identifier_name": 1, "unused_capture_list": 1, "class_delegate_protocol": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Views/InviteFriends/InviteFriendsView.swift"}, {"issues": {"identifier_name": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Models/Communication/JourneyUpdate.swift"}, {"issues": {"function_parameter_count": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/Receipt/TripReceiptViewModel.swift"}, {"issues": {"identifier_name": 2, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Gatherings/GatheringInviteFriendsViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip6ViewController.swift"}, {"issues": {"unused_closure_parameter": 6}, "file": "/Users/distiller/code/Skoot/Messaging/Redux/Actions/RideAction.swift"}, {"issues": {"line_length": 2}, "file": "/Users/distiller/code/Skoot/Payments/PaymentUiViewNotice.swift"}, {"issues": {"identifier_name": 4}, "file": "/Users/distiller/code/Skoot/Views/Background/BackgroundView.swift"}, {"issues": {"cyclomatic_complexity": 1, "unused_optional_binding": 1, "line_length": 4}, "file": "/Users/distiller/code/Skoot/AppDelegate.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Models/Communication/JourneyStop.swift"}, {"issues": {"identifier_name": 1, "force_cast": 3, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Rider/RiderPickLocationViewController.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 2, "line_length": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/CarPlateValidationUI.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Stores/Wallet/WalletStore.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Routes/Router.swift"}, {"issues": {"identifier_name": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/Views/JourneyNavigationBottomMenu.swift"}, {"issues": {"identifier_name": 2, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/SharedDriveOverviewViewController.swift"}, {"issues": {"identifier_name": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/FriendsSelector/FriendsSelectorViewController.swift"}, {"issues": {"notification_center_detachment": 1, "force_cast": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Scenes/Login/LoginExtendedViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/Views/DVLATitleView.swift"}, {"issues": {"notification_center_detachment": 1, "force_try": 1}, "file": "/Users/distiller/code/Skoot/Extensions/BaseNavigationController.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/Views/SharedDriveDetailsActionView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip3ViewController.swift"}, {"issues": {"function_parameter_count": 1}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/Views/SharedDriveDetailsChangeRSVPView.swift"}, {"issues": {"todo": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Payments/PaymentUiChoosePaymentMethod.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/ParticipantCell/ParticipantCell.swift"}, {"issues": {"identifier_name": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/General/PopUp/ZigZagPopUpActions.swift"}, {"issues": {"for_where": 2, "identifier_name": 9, "force_cast": 2, "multiple_closures_with_trailing_closure": 1, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/SharedDriveDetailsViewController.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 3, "line_length": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/GarageUI.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Messaging/Services/ImageUploadProvider.swift"}, {"issues": {"force_cast": 3, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/HelpWizzardViewController.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/Models/Rewards/CampaignImage.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/Views/WalletActionView.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 3, "line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/CarDetailsUI.swift"}, {"issues": {"identifier_name": 3, "class_delegate_protocol": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Views/HomeBanner/HomeBannerView.swift"}, {"issues": {"unused_optional_binding": 1, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/SharedDriveCalendarViewController.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Rewards/Views/ActivityViewController.swift"}, {"issues": {"identifier_name": 4, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Scenes/Map/SideMenu/BurgerMenuViewController.swift"}, {"issues": {"line_length": 3}, "file": "/Users/distiller/code/Skoot/Scenes/Login/WelcomeOverlayView.swift"}, {"issues": {"force_cast": 6, "line_length": 6}, "file": "/Users/distiller/code/Skoot/Helpers/HelperPresentr.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Messaging/Services/ImageUploadService.swift"}, {"issues": {"cyclomatic_complexity": 1, "for_where": 3, "force_cast": 2}, "file": "/Users/distiller/code/Skoot/Helpers/Helper.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Extensions/UIView+Helpers.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Errands/Summary/Views/ErrandDriverActionView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Routes/TestingRoutes.swift"}, {"issues": {"identifier_name": 3}, "file": "/Users/distiller/code/Skoot/Helpers/HelperSwiftUI.swift"}, {"issues": {"line_length": 4}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/LicenseScannerWrapper.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Helpers/HelperAddresses.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardGathering/GatheringTip3ViewController.swift"}, {"issues": {"line_length": 2}, "file": "/Users/distiller/code/Skoot/Utils/SharedDriveStartingSoonManager.swift"}, {"issues": {"identifier_name": 5, "class_delegate_protocol": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/GatheringPickViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Utils/FadeOutGradientView.swift"}, {"issues": {"identifier_name": 3}, "file": "/Users/distiller/code/Skoot/Utils/FriendReferralManager.swift"}, {"issues": {"unused_closure_parameter": 4}, "file": "/Users/distiller/code/Skoot/Messaging/Redux/Actions/AuthAction.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/BottomButton.swift"}, {"issues": {"identifier_name": 3, "line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Garage/ViewModels/GarageVM.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardTips/WizardTip2ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardDrive/DriveTip7ViewController.swift"}, {"issues": {"line_length": 2}, "file": "/Users/distiller/code/Skoot/Payments/PaymentUiViewGettingStarted.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/ViewModels/WalletVM.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Routes/ScreenRoutes/TripReceiptRoute.swift"}, {"issues": {"cyclomatic_complexity": 1, "function_body_length": 1}, "file": "/Users/distiller/code/Skoot/Models/User.swift"}, {"issues": {"line_length": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/Views/WithdrawTypeView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip3ViewController.swift"}, {"issues": {"force_cast": 5, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/GatheringConfirmLocationViewController.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/CurrentTripDetailsViewController.swift"}, {"issues": {"identifier_name": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Rewards/ViewModels/RewardsVM.swift"}, {"issues": {"file_length": 1, "type_name": 1, "nesting": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Messaging/Services/API.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/Views/TotalCashRow.swift"}, {"issues": {"identifier_name": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Payments/Helpers/HelperJudopay.swift"}, {"issues": {"identifier_name": 4, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/Views/JourneyImageAnnotationView.swift"}, {"issues": {"force_cast": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Map/Trips/TripsViewController.swift"}, {"issues": {"identifier_name": 4, "force_cast": 4, "nesting": 2}, "file": "/Users/distiller/code/Skoot/Configs/Environment.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Payments/PaymentUiViewAddPaymentMethod.swift"}, {"issues": {"identifier_name": 1, "nesting": 2}, "file": "/Users/distiller/code/Skoot/Utils/RemoteConfig/RemoteConfigKeys.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/General/PopUp/ZigZagView.swift"}, {"issues": {"type_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Journey/JourneyDriverResponsePendingViewController.swift"}, {"issues": {"class_delegate_protocol": 1, "line_length": 2}, "file": "/Users/distiller/code/Skoot/Views/PlantTreeView/PlantTreeView.swift"}, {"issues": {"identifier_name": 3, "class_delegate_protocol": 1, "line_length": 3}, "file": "/Users/distiller/code/Skoot/Views/FuelCostView/FuelCostView.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 4, "line_length": 3}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/WithdrawUI.swift"}, {"issues": {"for_where": 1, "force_cast": 1, "line_length": 1}, "file": "/Users/distiller/code/Skoot/Helpers/HelperPhoneContacts.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip1ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Views/Header/Header.swift"}, {"issues": {"line_length": 1}, "file": "/Users/distiller/code/Skoot/Scenes/SharedDrives/Views/PaymentOptions/RidePaymentOptionsView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip7ViewController.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip4ViewController.swift"}, {"issues": {"multiple_closures_with_trailing_closure": 2}, "file": "/Users/distiller/code/Skoot/SwiftUI/Wallet/Views/WithdrawDetailsView.swift"}, {"issues": {"identifier_name": 1}, "file": "/Users/distiller/code/Skoot/Scenes/Wizard/WizardRide/RideTip5ViewController.swift"}, {"issues": {"vertical_parameter_alignment": 7, "identifier_name": 8}, "file": "/Users/distiller/code/Skoot/Helpers/Extensions.swift"}]
+[
+    {
+        "issues": {
+            "identifier_name": [
+                35,
+                44
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/ViewModels/WalletVM.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                20
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/Views/TotalCashRow.swift"
+    },
+    {
+        "issues": {
+            "type_name": [
+                12
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/JourneyDriverResponsePendingViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                28
+            ]
+        },
+        "file": "Skoot/Helpers/HelperAddresses.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                105
+            ],
+            "closure_parameter_position": [
+                50
+            ]
+        },
+        "file": "Skoot/Scenes/Login/LoginViewController.swift"
+    },
+    {
+        "issues": {
+            "force_cast": [
+                170
+            ],
+            "line_length": [
+                170
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/Receipt/TripReceiptViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardTips/WizardTip2ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                55,
+                56
+            ]
+        },
+        "file": "Skoot/SwiftUI/Rewards/ViewModels/RewardsVM.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                45,
+                46,
+                64,
+                87
+            ],
+            "line_length": [
+                65
+            ]
+        },
+        "file": "Skoot/Views/InputPin/InputPin.swift"
+    },
+    {
+        "issues": {
+            "for_where": [
+                33
+            ],
+            "identifier_name": [
+                13
+            ],
+            "unused_capture_list": [
+                13
+            ],
+            "class_delegate_protocol": [
+                3
+            ],
+            "line_length": [
+                15
+            ]
+        },
+        "file": "Skoot/Views/InviteFriends/InviteFriendsView.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                28,
+                30
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/Views/WalletRow.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                25
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/Views/SecondaryCarInfoView.swift"
+    },
+    {
+        "issues": {
+            "unused_optional_binding": [
+                47
+            ],
+            "line_length": [
+                16,
+                31,
+                32
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/SharedDriveCalendarViewController.swift"
+    },
+    {
+        "issues": {
+            "function_body_length": [
+                11
+            ]
+        },
+        "file": "Skoot/Messaging/Redux/Reducers/MapReducer.swift"
+    },
+    {
+        "issues": {
+            "cyclomatic_complexity": [
+                34
+            ],
+            "identifier_name": [
+                35,
+                71,
+                106,
+                180,
+                193,
+                202,
+                251,
+                280,
+                286,
+                334,
+                362,
+                368
+            ],
+            "todo": [
+                47
+            ],
+            "line_length": [
+                335
+            ]
+        },
+        "file": "Skoot/Scenes/Map/MapViewController+TripsUpdateService.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                22
+            ]
+        },
+        "file": "Skoot/SwiftUI/Rewards/Views/ActivityViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                12
+            ]
+        },
+        "file": "Skoot/Helpers/HelperStates.swift"
+    },
+    {
+        "issues": {
+            "for_where": [
+                372
+            ],
+            "force_cast": [
+                104,
+                146,
+                173,
+                509
+            ],
+            "type_body_length": [
+                29
+            ],
+            "notification_center_detachment": [
+                315
+            ],
+            "file_length": [
+                600
+            ],
+            "line_length": [
+                126,
+                173,
+                180,
+                190,
+                282,
+                292,
+                303,
+                304,
+                364,
+                496,
+                554
+            ]
+        },
+        "file": "Skoot/Scenes/Map/MapViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                24,
+                37
+            ]
+        },
+        "file": "Skoot/Messaging/Services/Communication/TripsUpdateService.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                25,
+                27
+            ],
+            "line_length": [
+                195
+            ]
+        },
+        "file": "Skoot/Models/Errands/Errands.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                60
+            ]
+        },
+        "file": "Skoot/Views/Header/Header.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                32
+            ]
+        },
+        "file": "Skoot/Views/SwiftUI/PrimaryButton.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                29,
+                47,
+                56,
+                62
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/LicenseScannerWrapper.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                56
+            ],
+            "line_length": [
+                34
+            ]
+        },
+        "file": "Skoot/Scenes/General/PopUp/ZigZagPopUpActions.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                7,
+                8
+            ]
+        },
+        "file": "Skoot/Messaging/Services/APIHelper.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                37,
+                40
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/Views/WithdrawTypeView.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                34,
+                40,
+                50
+            ],
+            "line_length": [
+                24,
+                25
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/LicenseInfoUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardGathering/GatheringTip1ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                51,
+                57
+            ]
+        },
+        "file": "Skoot/Stores/Wallet/WalletStore.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip3ViewController.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                35
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/BankDetailsUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                13
+            ]
+        },
+        "file": "Skoot/Extensions/UINavigationController+Helpers.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardTips/WizardTip6ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                32,
+                38,
+                44,
+                50,
+                56,
+                63,
+                71,
+                79,
+                79,
+                87,
+                95,
+                103
+            ],
+            "force_cast": [
+                58,
+                65,
+                81
+            ],
+            "line_length": [
+                58,
+                73,
+                87,
+                89,
+                106
+            ]
+        },
+        "file": "Skoot/Helpers/HelperPresenter.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                39,
+                59,
+                98,
+                95
+            ],
+            "class_delegate_protocol": [
+                16
+            ],
+            "line_length": [
+                31
+            ]
+        },
+        "file": "Skoot/Scenes/General/PopUp/PopUpVC.swift"
+    },
+    {
+        "issues": {
+            "vertical_parameter_alignment": [
+                28,
+                45,
+                51
+            ],
+            "identifier_name": [
+                76,
+                77,
+                92
+            ],
+            "line_length": [
+                46,
+                56,
+                65,
+                67,
+                70,
+                83,
+                90
+            ]
+        },
+        "file": "Skoot/Utils/MapBox+Helpers.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                19,
+                30
+            ],
+            "line_length": [
+                13,
+                18,
+                19,
+                24,
+                29,
+                30
+            ]
+        },
+        "file": "Skoot/Helpers/TripUpdateHelpers.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                26
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip2ViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                43,
+                44,
+                45,
+                48,
+                49,
+                50,
+                53,
+                54,
+                55,
+                56,
+                59,
+                60,
+                61,
+                62,
+                65,
+                66,
+                67,
+                68,
+                73,
+                77,
+                79,
+                80,
+                81,
+                86,
+                87
+            ]
+        },
+        "file": "Skoot/Scenes/General/PopUp/ZigZagViewType.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                51
+            ],
+            "line_length": [
+                57,
+                92
+            ]
+        },
+        "file": "Skoot/Extensions/UIView+Helpers.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip2ViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                18
+            ]
+        },
+        "file": "Skoot/SwiftUI/BottomButton.swift"
+    },
+    {
+        "issues": {
+            "file_length": [
+                506
+            ],
+            "function_body_length": [
+                69,
+                192
+            ],
+            "line_length": [
+                59,
+                436,
+                447
+            ]
+        },
+        "file": "Skoot/Models/RideDetails.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                70,
+                238
+            ],
+            "line_length": [
+                12,
+                230
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Gatherings/GatheringInviteFriendsViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip8ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                35,
+                37,
+                39,
+                41
+            ],
+            "line_length": [
+                6,
+                7
+            ]
+        },
+        "file": "Skoot/Messaging/Services/APIService.swift"
+    },
+    {
+        "issues": {
+            "cyclomatic_complexity": [
+                9
+            ],
+            "force_cast": [
+                21,
+                36,
+                41,
+                42
+            ],
+            "closure_parameter_position": [
+                125,
+                125,
+                128,
+                128
+            ],
+            "identifier_name": [
+                53,
+                60,
+                65,
+                71
+            ],
+            "function_body_length": [
+                9
+            ],
+            "line_length": [
+                21,
+                26,
+                36,
+                43,
+                75,
+                84,
+                88
+            ]
+        },
+        "file": "Skoot/Routes/RootRoutable+TestingRoutes.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                18,
+                54,
+                98,
+                99
+            ],
+            "force_cast": [
+                42,
+                83,
+                85,
+                88
+            ],
+            "nesting": [
+                14,
+                22
+            ]
+        },
+        "file": "Skoot/Configs/Environment.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                61,
+                129
+            ],
+            "multiple_closures_with_trailing_closure": [
+                203
+            ],
+            "line_length": [
+                14,
+                119
+            ]
+        },
+        "file": "Skoot/Scenes/Login/TakeSelfieViewController.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                50
+            ],
+            "line_length": [
+                33
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/WalletUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22,
+                36
+            ]
+        },
+        "file": "Skoot/Extensions/UserDefaults+Codable.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                26,
+                37,
+                49
+            ],
+            "line_length": [
+                19
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/CarDetailsUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                9
+            ]
+        },
+        "file": "Skoot/Routes/ScreenRoutes/ErrandSummaryRoute.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                12,
+                57,
+                65
+            ],
+            "class_delegate_protocol": [
+                9
+            ],
+            "line_length": [
+                50,
+                75
+            ]
+        },
+        "file": "Skoot/Views/HomeBanner/HomeBannerView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                13,
+                15
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/Views/CarDetailsPlateView.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                389
+            ]
+        },
+        "file": "Skoot/Messaging/Services/UserProvider.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip8ViewController.swift"
+    },
+    {
+        "issues": {
+            "unneeded_notification_center_removal": [
+                28
+            ],
+            "line_length": [
+                8,
+                15,
+                16,
+                56,
+                95
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Profile/PlacesAutocompleteVC.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                116
+            ]
+        },
+        "file": "Skoot/Messaging/Services/DriverProvider.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardGathering/GatheringTip3ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                116
+            ],
+            "line_length": [
+                118
+            ]
+        },
+        "file": "Skoot/SwiftUI/Rewards/Views/CampaignRow.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                56,
+                68,
+                72,
+                82
+            ],
+            "line_length": [
+                68,
+                79,
+                114
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/WithdrawUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardTips/WizardTip5ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                38,
+                38,
+                59,
+                60
+            ],
+            "function_parameter_count": [
+                18,
+                29
+            ]
+        },
+        "file": "Skoot/Views/ChooseDriverViews/ChooseDriverViewDelegate.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                150,
+                365,
+                384
+            ],
+            "force_cast": [
+                350
+            ],
+            "class_delegate_protocol": [
+                10
+            ],
+            "line_length": [
+                330,
+                335,
+                339,
+                381
+            ],
+            "unneeded_break_in_switch": [
+                165
+            ]
+        },
+        "file": "Skoot/Scenes/Errands/Create/CreateErrandViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                26
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip1ViewController.swift"
+    },
+    {
+        "issues": {
+            "todo": [
+                35
+            ],
+            "line_length": [
+                21,
+                25
+            ]
+        },
+        "file": "Skoot/Payments/PaymentUiChoosePaymentMethod.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                80,
+                81,
+                82
+            ],
+            "unused_optional_binding": [
+                127,
+                147
+            ],
+            "line_length": [
+                177
+            ]
+        },
+        "file": "Skoot/Scenes/Errands/Create/CreateErrandViewModel.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                62
+            ],
+            "force_cast": [
+                54
+            ],
+            "line_length": [
+                94
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/TripsViewModel.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                26
+            ],
+            "line_length": [
+                19,
+                62,
+                68
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/Views/ZigZagPopUpView.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                56
+            ],
+            "line_length": [
+                24
+            ]
+        },
+        "file": "Skoot/SwiftUI/Rewards/RewardsUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                19,
+                71,
+                72
+            ]
+        },
+        "file": "Skoot/Utils/FriendReferralManager.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                12
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/Views/CarDetailsView.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                22
+            ]
+        },
+        "file": "Skoot/Messaging/Services/Communication/FriendLocationService.swift"
+    },
+    {
+        "issues": {
+            "for_where": [
+                116
+            ],
+            "force_cast": [
+                57
+            ],
+            "line_length": [
+                57
+            ]
+        },
+        "file": "Skoot/Helpers/HelperPhoneContacts.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                21
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/Views/ImageLoader.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                17
+            ]
+        },
+        "file": "Skoot/Routes/Router.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                29,
+                30
+            ],
+            "line_length": [
+                17,
+                25,
+                30
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/Views/DVLAZigZagView.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                16,
+                31
+            ]
+        },
+        "file": "Skoot/Payments/PaymentUiViewGettingStarted.swift"
+    },
+    {
+        "issues": {
+            "class_delegate_protocol": [
+                3
+            ]
+        },
+        "file": "Skoot/Scenes/Errands/Create/Views/PaymentDetailsView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                5
+            ]
+        },
+        "file": "Skoot/Utils/Array+distinct.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                132
+            ],
+            "line_length": [
+                103
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/Views/JourneyNavigationBottomMenu.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                23,
+                43
+            ]
+        },
+        "file": "Skoot/Payments/PaymentUiViewNotice.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                138
+            ],
+            "force_cast": [
+                67,
+                164
+            ],
+            "unused_optional_binding": [
+                137
+            ],
+            "line_length": [
+                14
+            ]
+        },
+        "file": "Skoot/Scenes/Login/EnterCodeViewController.swift"
+    },
+    {
+        "issues": {
+            "function_parameter_count": [
+                103
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/Receipt/TripReceiptViewModel.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                21
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardTips/WizardTip1ViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                16,
+                239,
+                246
+            ]
+        },
+        "file": "Skoot/Scenes/LocationSelector/LocationSelectorViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                32,
+                49
+            ]
+        },
+        "file": "Skoot/Utils/SharedDriveStartingSoonManager.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                5,
+                8
+            ]
+        },
+        "file": "Skoot/Utils/WebViewProvider.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                55
+            ],
+            "duplicate_imports": [
+                11
+            ],
+            "line_length": [
+                17,
+                22
+            ]
+        },
+        "file": "Skoot/Messaging/FirebaseMessaging.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                12
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/Views/SharedDriveDetailsActionView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                14,
+                92,
+                93,
+                95
+            ],
+            "line_length": [
+                71
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/Views/JourneyImageAnnotationView.swift"
+    },
+    {
+        "issues": {
+            "force_cast": [
+                77,
+                93,
+                101,
+                109,
+                117,
+                133
+            ],
+            "line_length": [
+                85,
+                123,
+                125,
+                133,
+                141,
+                157
+            ]
+        },
+        "file": "Skoot/Helpers/HelperPresentr.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/ParticipantCell/ParticipantCell.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                5,
+                185,
+                193,
+                204,
+                205
+            ]
+        },
+        "file": "Skoot/Models/SharedDrive.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                30
+            ]
+        },
+        "file": "Skoot/Views/SwiftUI/SecondaryButton.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                21,
+                23,
+                32
+            ],
+            "class_delegate_protocol": [
+                15
+            ],
+            "line_length": [
+                35,
+                65,
+                67
+            ]
+        },
+        "file": "Skoot/Views/FuelCostView/FuelCostView.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                52
+            ]
+        },
+        "file": "Skoot/SwiftUI/InviteFriends/InviteFriends.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                54,
+                58,
+                60
+            ],
+            "line_length": [
+                44
+            ]
+        },
+        "file": "Skoot/Scenes/General/PopUp/NetworkingPopUpManager.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                210
+            ],
+            "force_cast": [
+                100,
+                129,
+                130
+            ],
+            "line_length": [
+                30,
+                134
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Rider/RiderPickLocationViewController.swift"
+    },
+    {
+        "issues": {
+            "notification_center_detachment": [
+                48
+            ],
+            "force_try": [
+                20
+            ]
+        },
+        "file": "Skoot/Extensions/BaseNavigationController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22,
+                58,
+                68
+            ]
+        },
+        "file": "Skoot/Helpers/HelperSwiftUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                81,
+                84,
+                85,
+                95
+            ]
+        },
+        "file": "Skoot/Views/Background/BackgroundView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                16
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/Views/JourneyStartedBottomMenu.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip4ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                127,
+                183,
+                222,
+                227,
+                228,
+                236
+            ],
+            "line_length": [
+                73,
+                87,
+                88,
+                100,
+                160,
+                173,
+                196,
+                207,
+                220
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/JourneyNavigationViewController.swift"
+    },
+    {
+        "issues": {
+            "computed_accessors_order": [
+                14,
+                19,
+                24,
+                29
+            ],
+            "force_cast": [
+                35
+            ]
+        },
+        "file": "Skoot/Helpers/DictionaryEncoder.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                9
+            ]
+        },
+        "file": "Skoot/Routes/ScreenRoutes/SharedDriveDetailsRoute.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                16,
+                28
+            ]
+        },
+        "file": "Skoot/Models/Location.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                15
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/Views/WalletActionView.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                33,
+                45
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/AddBankAccountUI.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                27
+            ]
+        },
+        "file": "Skoot/Payments/PaymentUiViewAddPaymentMethod.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                88
+            ],
+            "line_length": [
+                19
+            ]
+        },
+        "file": "Skoot/Scenes/FriendsSelector/FriendsSelectorViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                112
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/Views/PaymentOptions/RidePaymentOptionsView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                93,
+                94,
+                98,
+                139
+            ],
+            "force_cast": [
+                102
+            ],
+            "line_length": [
+                93
+            ]
+        },
+        "file": "Skoot/Scenes/Login/ProfileCreatorViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                129
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/CurrentTripDetailsViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip6ViewController.swift"
+    },
+    {
+        "issues": {
+            "cyclomatic_complexity": [
+                140
+            ],
+            "for_where": [
+                96,
+                107,
+                131
+            ],
+            "force_cast": [
+                228,
+                245
+            ]
+        },
+        "file": "Skoot/Helpers/Helper.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardTips/WizardTip4ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                8
+            ]
+        },
+        "file": "Skoot/Extensions/Geocoder.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip3ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                9
+            ],
+            "nesting": [
+                7,
+                13
+            ]
+        },
+        "file": "Skoot/Utils/RemoteConfig/RemoteConfigKeys.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                35,
+                36
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/Views/WithdrawDetailsView.swift"
+    },
+    {
+        "issues": {
+            "cyclomatic_complexity": [
+                73
+            ],
+            "function_body_length": [
+                73
+            ],
+            "unneeded_break_in_switch": [
+                123
+            ],
+            "identifier_name": [
+                47
+            ]
+        },
+        "file": "Skoot/Scenes/Errands/Summary/ErrandsSummaryViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                24
+            ]
+        },
+        "file": "Skoot/Scenes/Errands/Summary/Views/ErrandDriverActionView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/Views/DVLATitleView.swift"
+    },
+    {
+        "issues": {
+            "notification_center_detachment": [
+                31
+            ],
+            "force_cast": [
+                37
+            ],
+            "line_length": [
+                24,
+                25
+            ]
+        },
+        "file": "Skoot/Scenes/Login/LoginExtendedViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                12
+            ]
+        },
+        "file": "Skoot/Messaging/Services/ImageUploadService.swift"
+    },
+    {
+        "issues": {
+            "force_cast": [
+                46,
+                75,
+                101
+            ],
+            "line_length": [
+                46,
+                75,
+                101
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/HelpWizzardViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip7ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip5ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                8,
+                15
+            ]
+        },
+        "file": "Skoot/Models/Rewards/CampaignImage.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                29
+            ]
+        },
+        "file": "Skoot/SwiftUI/Wallet/Views/AmountTextView.swift"
+    },
+    {
+        "issues": {
+            "function_parameter_count": [
+                16
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/Views/SharedDriveDetailsChangeRSVPView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                11,
+                27,
+                29
+            ],
+            "line_length": [
+                24
+            ]
+        },
+        "file": "Skoot/Payments/PaymentUiViewPayment.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                19,
+                63
+            ]
+        },
+        "file": "Skoot/Models/Transaction.swift"
+    },
+    {
+        "issues": {
+            "force_cast": [
+                151
+            ],
+            "line_length": [
+                94,
+                98,
+                151,
+                172,
+                179
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/JourneyViewController.swift"
+    },
+    {
+        "issues": {
+            "for_where": [
+                50
+            ],
+            "line_length": [
+                69,
+                115
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Rider/ConfirmRideVC.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                59
+            ],
+            "line_length": [
+                41
+            ]
+        },
+        "file": "Skoot/Models/Communication/JourneyUpdate.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                17,
+                36,
+                55
+            ],
+            "line_length": [
+                128
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/ViewModels/GarageVM.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                24
+            ]
+        },
+        "file": "Skoot/Scenes/General/PopUp/ZigZagView.swift"
+    },
+    {
+        "issues": {
+            "cyclomatic_complexity": [
+                89
+            ],
+            "function_body_length": [
+                89
+            ]
+        },
+        "file": "Skoot/Models/User.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                22,
+                55,
+                67,
+                91
+            ]
+        },
+        "file": "Skoot/Messaging/Services/Communication/JourneyUpdateService.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                26,
+                34,
+                57
+            ],
+            "line_length": [
+                23,
+                31
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/GarageUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                13,
+                17
+            ]
+        },
+        "file": "Skoot/Models/Errands/ErrandFees.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                54
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/Views/InstantRideRequestView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                63,
+                69,
+                75,
+                87
+            ],
+            "line_length": [
+                63,
+                69,
+                75
+            ]
+        },
+        "file": "Skoot/Scenes/Map/SideMenu/BurgerMenuViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                27
+            ],
+            "force_cast": [
+                28
+            ]
+        },
+        "file": "Skoot/Views/XibView.swift"
+    },
+    {
+        "issues": {
+            "class_delegate_protocol": [
+                3
+            ],
+            "line_length": [
+                22,
+                23
+            ]
+        },
+        "file": "Skoot/Views/PlantTreeView/PlantTreeView.swift"
+    },
+    {
+        "issues": {
+            "cyclomatic_complexity": [
+                169
+            ],
+            "unused_optional_binding": [
+                175
+            ],
+            "line_length": [
+                30,
+                136,
+                152,
+                201
+            ]
+        },
+        "file": "Skoot/AppDelegate.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardTips/WizardTip3ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                31
+            ],
+            "line_length": [
+                34
+            ]
+        },
+        "file": "Skoot/Payments/Helpers/HelperJudopay.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                5,
+                7
+            ]
+        },
+        "file": "Skoot/Messaging/Services/ImageUploadProvider.swift"
+    },
+    {
+        "issues": {
+            "unneeded_break_in_switch": [
+                81,
+                84,
+                91
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Friends/FriendCell/FriendCell.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                11
+            ],
+            "type_name": [
+                3
+            ],
+            "line_length": [
+                13
+            ],
+            "force_cast": [
+                13
+            ]
+        },
+        "file": "Skoot/Scenes/FriendsSelector/SharedDrivesFriendsSelectorFlowCoordinator.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                24
+            ]
+        },
+        "file": "Skoot/Scenes/FriendsSelector/FriendsSelectorViewModel.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip1ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                21,
+                30
+            ]
+        },
+        "file": "Skoot/Models/Communication/JourneyStop.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                63
+            ]
+        },
+        "file": "Skoot/Scenes/SharedViews/InviteeTableView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                57
+            ],
+            "line_length": [
+                35
+            ]
+        },
+        "file": "Skoot/Routes/RootRoutable.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                182
+            ],
+            "force_cast": [
+                89,
+                97
+            ],
+            "line_length": [
+                78,
+                89,
+                97
+            ]
+        },
+        "file": "Skoot/Views/ChooseDriverViews/ChooseDriverView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                6
+            ]
+        },
+        "file": "Skoot/Utils/FadeOutGradientView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                25
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/Views/JourneyPendingPickupBottomMenu.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                33,
+                51,
+                99,
+                96
+            ],
+            "line_length": [
+                25
+            ]
+        },
+        "file": "Skoot/Scenes/General/Drawer/DrawerVC.swift"
+    },
+    {
+        "issues": {
+            "file_length": [
+                816
+            ],
+            "type_name": [
+                14
+            ],
+            "nesting": [
+                21
+            ],
+            "line_length": [
+                510
+            ]
+        },
+        "file": "Skoot/Messaging/Services/API.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                23
+            ]
+        },
+        "file": "Skoot/Messaging/Services/Communication/DriveUpdateService.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                9
+            ]
+        },
+        "file": "Skoot/Routes/ScreenRoutes/TripReceiptRoute.swift"
+    },
+    {
+        "issues": {
+            "vertical_parameter_alignment": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34
+            ],
+            "identifier_name": [
+                15,
+                55,
+                56,
+                57,
+                58,
+                59,
+                91,
+                91
+            ]
+        },
+        "file": "Skoot/Helpers/Extensions.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                14,
+                31,
+                45,
+                50,
+                123
+            ],
+            "class_delegate_protocol": [
+                13
+            ],
+            "line_length": [
+                104,
+                120
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/GatheringPickViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                51
+            ]
+        },
+        "file": "Skoot/Models/Participant.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                41,
+                48,
+                81
+            ],
+            "line_length": [
+                38,
+                41,
+                48,
+                64
+            ]
+        },
+        "file": "Skoot/Scenes/Login/WelcomeViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                7,
+                9
+            ],
+            "line_length": [
+                27
+            ]
+        },
+        "file": "Skoot/Extensions/String.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                101
+            ],
+            "line_length": [
+                32,
+                78
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/RideLocationConfirmationVC.swift"
+    },
+    {
+        "issues": {
+            "orphaned_doc_comment": [
+                71,
+                80
+            ]
+        },
+        "file": "Skoot/Views/InputPhone/InputPhone.swift"
+    },
+    {
+        "issues": {
+            "force_cast": [
+                51
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/TripsParticipantsViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardDrive/DriveTip4ViewController.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                27,
+                38
+            ],
+            "line_length": [
+                20,
+                23
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/CarPlateValidationUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardGathering/GatheringTip2ViewController.swift"
+    },
+    {
+        "issues": {
+            "for_where": [
+                74,
+                324
+            ],
+            "identifier_name": [
+                213,
+                268,
+                273,
+                274,
+                312,
+                323,
+                349,
+                371,
+                382
+            ],
+            "force_cast": [
+                42,
+                384
+            ],
+            "multiple_closures_with_trailing_closure": [
+                289
+            ],
+            "line_length": [
+                303,
+                339,
+                384
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/SharedDriveDetailsViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                31
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/InviteCodeViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                20,
+                24
+            ],
+            "line_length": [
+                23
+            ]
+        },
+        "file": "Skoot/Utils/ImageSelectorManager.swift"
+    },
+    {
+        "issues": {
+            "multiple_closures_with_trailing_closure": [
+                49,
+                64
+            ],
+            "line_length": [
+                21,
+                55
+            ]
+        },
+        "file": "Skoot/SwiftUI/Garage/LicenseScanInfoUI.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                30,
+                85
+            ],
+            "line_length": [
+                82
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/SharedDriveOverviewViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                10
+            ]
+        },
+        "file": "Skoot/Routes/TestingRoutes.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                38
+            ],
+            "force_try": [
+                47
+            ],
+            "line_length": [
+                47
+            ]
+        },
+        "file": "Skoot/Helpers/GRPCHelpers.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                17
+            ],
+            "discarded_notification_center_observer": [
+                82,
+                86
+            ],
+            "line_length": [
+                62,
+                82,
+                86
+            ]
+        },
+        "file": "Skoot/Views/HomeMenuView/HomeMenuView.swift"
+    },
+    {
+        "issues": {
+            "force_cast": [
+                46,
+                47,
+                57,
+                58,
+                76
+            ],
+            "line_length": [
+                39
+            ]
+        },
+        "file": "Skoot/Scenes/SharedDrives/GatheringConfirmLocationViewController.swift"
+    },
+    {
+        "issues": {
+            "orphaned_doc_comment": [
+                17
+            ]
+        },
+        "file": "Skoot/Scenes/Journey/Views/JourneyUserLocationAnnotationView.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                44,
+                50,
+                53
+            ]
+        },
+        "file": "Skoot/Scenes/Login/WelcomeOverlayView.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardGathering/GatheringTip4ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip9ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip7ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                12,
+                35,
+                50,
+                60
+            ],
+            "type_name": [
+                28
+            ]
+        },
+        "file": "Skoot/Models/Car.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                22
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip5ViewController.swift"
+    },
+    {
+        "issues": {
+            "identifier_name": [
+                23
+            ]
+        },
+        "file": "Skoot/Scenes/Wizard/WizardRide/RideTip6ViewController.swift"
+    },
+    {
+        "issues": {
+            "force_cast": [
+                127
+            ]
+        },
+        "file": "Skoot/Scenes/Map/Trips/TripsViewController.swift"
+    },
+    {
+        "issues": {
+            "line_length": [
+                178,
+                179,
+                180,
+                214,
+                217
+            ]
+        },
+        "file": "Skoot/Messaging/Services/APIDriver.swift"
+    }
+]
